@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ann</h1>
-<h3 align="center">I'm a Passionate Junior Web Developer</h3>
 
 - 🌱 Currently learning **React.js**
 
