@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ann</h1>
-<h3 align="center">I'm a passionate junior web Developer</h3>
-
-- 🔭 I’m currently working on **GreenSpenser Web App**
+<h3 align="center">I'm a passionate junior Web Developer</h3>
 
 - 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **projects**
 
 <h3>About Me</h3>
-<p>I'm a junior software developer passionate about creating efficient, user-friendly web applications. With experience in both front-end and back-end development, I enjoy solving complex problems and continuously learning new technologies to improve my skills.<br>
+<p>I'm a junior Web developer passionate about creating efficient, user-friendly web applications. With experience in both front-end and back-end development, I enjoy solving complex problems and continuously learning new technologies to improve my skills.<br>
   
 Currently, I’m building an expense tracker app (GreenSpende) that focuses on sustainability and responsible consumption, aligning with the Sustainable Development Goals (SDGs). My goal is to contribute to impactful projects that make a difference.
 
